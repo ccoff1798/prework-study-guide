@@ -14,7 +14,7 @@ The notes are all in their individual sections, however you can see more when in
 
 ## Credits
 
-Cody Coffey, as well as teh Bootcamp walkthrough
+Cody Coffey, as well as the Bootcamp walkthrough
 
 ## License
 
